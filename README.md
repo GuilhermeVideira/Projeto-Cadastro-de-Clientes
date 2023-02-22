@@ -1,9 +1,9 @@
 # 📄 Projeto Cadastro de Clientes 📄
-Este seguinte projeto é uma atividade prática de teste do meu conhecimento. 
+Este seguinte projeto é uma atividade prática de teste do meu conhecimento. 📚
 
 Em busca da prática diária, desenvolvi essa aplicação em teste do meu conhecimento das liguagens de programação. 
 
- 🛎 🧧 💻 ☎️ 📟 📃 📋
+ 🛎 🧧 💻 ☎️ 📟 📃 📋 
 
 #
 
